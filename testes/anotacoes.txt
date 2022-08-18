@@ -1,0 +1,16 @@
+public
+	acessado por qualquer classe
+	
+private
+	privado da classe, só poderão ter acesso dentro dos próprios métodos.
+	
+protected
+	
+default
+	não declarar nada  para ser default = visível dentro do mesmo pacote (aula0908)
+	Visível para todas as classes dentro do mesmo pacote;
+	
+encapsulamento
+	fornecer acesso a minhas classes a partir da interface, da classe.
+	meios, para que o usu da class, acesse esses atributos como privado
+	 > get / set

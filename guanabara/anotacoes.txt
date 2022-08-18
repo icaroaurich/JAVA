@@ -1,0 +1,59 @@
+camel case = CamelCase
+Case sensitivy
+
+somente minusculas
+	nome pacote
+
+Primeira letra em mauísucula
+	Classe / interface
+	
+Se a primeira minuscula e as seguintes maiúscula:
+	Atributo = nomeAluno
+	variável = mediaNota
+	método = lançarNota
+	
+Tudo maiúsculo
+	constante (pi)
+
+//  para comentário
+
+/* 
+ *  comentar um monte de linhas
+*/
+
+/**
+	@Autor eu
+*/
+
+INT
+	int idade = 3;
+	int idade = (int) 3; // typecast
+	integer idade = new integer (3); // Wrapper Class 
+REAL
+	float salario = 123.45f;
+	float salario = (float) 123.45f; // typecast
+	Float salario = new Float (123.45f); // Wrapper Class 
+CHAR
+	char letra = 'M';
+	char letra = (int) 'M'; // typecast
+	Character letra = new Character ('M'); // Wrapper Class 
+LÓGICO
+	boolean casado = true;
+	boolean casado = (boolean) true; // typecast
+	Boolean casado = new Boolean true; // Wrapper Class 
+
+////////////////////////////////////////////////////////////////////////////////////////
+	FAMILIA		////	TIPO	////	CLASS	////	TAMANHO	////	EXEMPLO		////
+	LÓGICO		////   BOOLEAN	////   Boolean	////	1 bit	////	true		////
+	LITERAIS	////	char	////  Character	////	1 byte	////	'A'			////
+	   //   	////	 - 		////   String	////  1 byte/cada///	"JAVA"		////
+	INTEIROS	////	byte	////	Byte	////	1 byte	////	127			////
+	   //   	////	short	////	short	////	2 bytes	////	32 767		////
+	   //   	////	int		////	Integer	////	4 bytes	////	2 147 483	////
+	   //   	////	long	////	Long	////	8 bytes	////	2^63		////
+	  Reais		////	float	////	Float	////	4 bytes	////	3.4e^38		////
+	   //  		////   Double	////   Double	////	8 bytes	////	1.8e^308	////
+////////////////////////////////////////////////////////////////////////////////////////
+
+
+
